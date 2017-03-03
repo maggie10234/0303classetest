@@ -17,6 +17,9 @@ namespace _0303classtest
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            
+
+        //0303classtest
         }
     }
 }
